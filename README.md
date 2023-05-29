@@ -20,7 +20,7 @@ Escolhemos 6 exercícios do LeetCode sobre a matéria estudada.
 
 ## Vídeo explicativo
 
-[Vídeo explicativo entrega 3](/)
+[Vídeo explicativo](https://www.youtube.com/watch?v=5F4DVjoriNw)
 
 ## Instalação 
 **Linguagem**: Python<br>
